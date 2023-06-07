@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+drawable common_icon_on
+drawable ic_launcher_background

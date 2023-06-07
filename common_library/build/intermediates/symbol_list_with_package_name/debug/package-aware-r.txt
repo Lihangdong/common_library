@@ -1,0 +1,3 @@
+com.example.common_library
+drawable common_icon_on
+drawable ic_launcher_background

@@ -1,0 +1,2 @@
+int drawable common_icon_on 0x0
+int drawable ic_launcher_background 0x0

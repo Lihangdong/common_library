@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+		ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:2:1-7:12
+		INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml:4:22-76
+uses-sdk
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+		ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+		INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+		ADDED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
+		INJECTED from J:\PERSONAL\ProjectDir\AndroidNativeProject\WheelPractice\common_library\src\main\AndroidManifest.xml
